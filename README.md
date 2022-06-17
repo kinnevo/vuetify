@@ -15,6 +15,9 @@ npm run serve
 
 vue add vuetify
 
+use of the vuetify-material-dashboard-master
+npm run serve
+
 
 # GIT management
 
@@ -23,3 +26,6 @@ git add *
 git commit -m "first commit"
 
 git remote add origin git@github.com:kinnevo/vuetify
+    an error about the key need to be solved
+
+    https://gist.github.com/adamjohnson/5682757 
